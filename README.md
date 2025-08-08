@@ -6,13 +6,28 @@ A comprehensive repository containing practical implementations, UML diagrams, a
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Repository Structure](#repository-structure)
-- [Design Pattern Categories](#design-pattern-categories)
-- [Getting Started](#getting-started)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Resources](#resources)
-- [License](#license)
+- [Software Design Patterns 🏗️](#software-design-patterns-️)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [Overview](#overview)
+  - [Repository Structure](#repository-structure)
+  - [Design Pattern Categories](#design-pattern-categories)
+    - [Creational Patterns](#creational-patterns)
+    - [Structural Patterns](#structural-patterns)
+    - [Behavioral Patterns](#behavioral-patterns)
+    - [Modern Patterns](#modern-patterns)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Quick Start](#quick-start)
+  - [How to Use This Repository](#how-to-use-this-repository)
+    - [For Learning](#for-learning)
+    - [For Reference](#for-reference)
+    - [For Teaching](#for-teaching)
+  - [Resources](#resources)
+    - [Books](#books)
+    - [Online Resources](#online-resources)
+    - [Tools Used](#tools-used)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,7 +39,7 @@ This repository covers the classic Gang of Four (GoF) design patterns along with
 - **UML Diagrams** - Visual representations of pattern structure and relationships
 - **Detailed Explanations** - When to use, benefits, drawbacks, and real-world applications
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── creational-patterns/
