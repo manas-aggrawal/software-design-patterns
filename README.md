@@ -11,11 +11,10 @@ A comprehensive repository containing practical implementations, UML diagrams, a
 - [Design Pattern Categories](#design-pattern-categories)
 - [Getting Started](#getting-started)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Contributing](#contributing)
 - [Resources](#resources)
 - [License](#license)
 
-## 🎯 Overview
+## Overview
 
 Design patterns are reusable solutions to commonly occurring problems in software design. They represent best practices evolved over time by experienced developers and provide a shared vocabulary for discussing design solutions.
 
@@ -48,7 +47,7 @@ This repository covers the classic Gang of Four (GoF) design patterns along with
 ├── modern-patterns/
 │   ├── mvc/
 │   ├── mvp/
-│   └── ...
+└── └── ...
 ```
 
 Each pattern directory contains:
@@ -57,7 +56,7 @@ Each pattern directory contains:
 - Java implementation
 - Example usage scenarios
 
-## 🗂️ Design Pattern Categories
+## Design Pattern Categories
 
 ### Creational Patterns
 Patterns that deal with object creation mechanisms.
@@ -101,7 +100,7 @@ Contemporary patterns for modern software development.
 - [x] **Dependency Injection** - Provide dependencies from external source
 - [x] **Repository** - Encapsulate data access logic
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Basic understanding of object-oriented programming
@@ -122,7 +121,7 @@ Contemporary patterns for modern software development.
 6. Explore code examples in your preferred language
 7. Try the practice problems to test your understanding
 
-## 📚 How to Use This Repository
+## How to Use This Repository
 
 ### For Learning
 - Start with creational patterns if you're new to design patterns
@@ -141,7 +140,7 @@ Contemporary patterns for modern software development.
 - UML diagrams are classroom-ready
 
 
-## 📖 Resources
+## Resources
 
 ### Books
 - "Design Patterns: Elements of Reusable Object-Oriented Software" by Gang of Four
@@ -158,11 +157,11 @@ Contemporary patterns for modern software development.
 - **Code Examples**: Tested and verified implementations
 - **Documentation**: Written in Markdown for GitHub compatibility
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Gang of Four for establishing the foundation of design patterns
 - The software engineering community for continued evolution of patterns
